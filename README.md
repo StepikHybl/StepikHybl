@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm StepikHybl</h1>
 <h3 align="center">Student at 42Prague</h3>
 
-- 🔭 I’m currently working on **Piscine Reloaded**
+- 🔭 I’m currently working on **libft**
 
 - 🌱 I’m currently learning **C, python**
 
