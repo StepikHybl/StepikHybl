@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stepik_Hybl</h1>
+<h1 align="center">Hi 👋, I'm StepikHybl</h1>
 <h3 align="center">Student at 42Prague</h3>
 
 - 🔭 I’m currently working on **Piscine Reloaded**
